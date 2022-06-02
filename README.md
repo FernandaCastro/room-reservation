@@ -1,6 +1,6 @@
 # Room Reservation
 
-This project is based on the idea proposed in a LinkedIn course "Learning Spring with Spring Boot" presented by Frank Moley.
+This project is based on the idea proposed by Frank Moley in his course called "Learning Spring with Spring Boot" at LinkedIn Learning.
 
 - Using remote database (Postgres container)
 - Building a service abstraction
